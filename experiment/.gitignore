@@ -1,0 +1,6 @@
+*
+!.gitignore
+!/model/*.pt
+*.png
+*.npy
+*.zip
