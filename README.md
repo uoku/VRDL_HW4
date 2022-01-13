@@ -30,7 +30,7 @@ to reproduce submission file
 
 ```Inference
 cd src
-python eval.py --template HAN --scale 2 --pre_train path/to/model
+python eval.py --template HAN --scale 3 --pre_train path/to/model
 ```
 
 
